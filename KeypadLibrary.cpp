@@ -26,3 +26,13 @@ void loop() {
     Serial.println(key);
   }
 }
+
+
+/* In summary:
+
+The code uses the Keypad library to interface with a 4x4 keypad.
+The keypad layout and connection pins are defined.
+The program continuously checks for a pressed key in the loop() function.
+When a key is pressed, it prints the corresponding character to the Serial Monitor.
+Feel free to ask if you have specific questions or if you'd like to make any modifications!
+*/
